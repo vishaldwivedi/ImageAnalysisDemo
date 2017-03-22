@@ -1,4 +1,4 @@
-package com.example.nagarro.imageanalysisdemo;
+package com.vishaldwivedi.intelliJournal
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.nagarro.imageanalysisdemo", appContext.getPackageName());
+        assertEquals("com.vishaldwivedi.intelliJournal", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.example.nagarro.imageanalysisdemo;
+package com.vishaldwivedi.intelliJournal;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

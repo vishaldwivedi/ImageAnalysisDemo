@@ -1,4 +1,4 @@
-package com.example.nagarro.imageanalysisdemo;
+package com.vishaldwivedi.intelliJournal;
 
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
