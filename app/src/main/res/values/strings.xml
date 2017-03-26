@@ -2,4 +2,7 @@
     <string name="app_name">intelliJournal</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_add_accounts">AddAccounts</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
 </resources>
