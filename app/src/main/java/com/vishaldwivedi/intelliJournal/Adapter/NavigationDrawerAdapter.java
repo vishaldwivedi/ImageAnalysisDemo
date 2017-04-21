@@ -16,7 +16,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by nagarro on 25/03/17.
+ * Created by Vishal Dwivedi on 25/03/17.
  */
 
 public class NavigationDrawerAdapter extends RecyclerView.Adapter<NavigationDrawerAdapter.MyVieHolder> {
